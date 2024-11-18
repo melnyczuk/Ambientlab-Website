@@ -1,0 +1,83 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+	font-family: pica;
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(/fonts/pica.ttf);
+}
+
+@font-face {
+	font-family: gilroy;
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(/fonts/gilroy-light.ttf);
+}
+
+@font-face {
+	font-family: gilroy;
+	font-style: bold;
+	font-weight: 700;
+	font-display: swap;
+	src: url(/fonts/gilroy-bold.ttf);
+}
+
+@layer base {
+	@font-face {
+		font-family: 'pica';
+		font-style: normal;
+		font-weight: 400;
+		font-display: swap;
+		src: url(/fonts/pica.ttf) format('ttf');
+	}
+
+	@font-face {
+		font-family: 'gilroy';
+		font-style: normal;
+		font-weight: 400;
+		font-display: swap;
+		src: url(/fonts/gilroy-light.ttf) format('ttf');
+	}
+
+	@font-face {
+		font-family: 'gilroy';
+		font-style: bold;
+		font-weight: 700;
+		font-display: swap;
+		src: url(/fonts/gilroy-bold.ttf) format('ttf');
+	}
+
+	html {
+		font-family: pica;
+		background-color: #f8f8f8;
+	}
+
+	ol {
+		list-style: decimal;
+		margin-left: 32px;
+	}
+
+	hr {
+		border-top: 0.8px solid black;
+	}
+
+	h2 {
+		font-size: xx-large;
+	}
+
+	h3 {
+		font-size: x-large;
+	}
+
+	h4 {
+		font-size: large;
+	}
+
+	p {
+		font-size: 14px;
+	}
+}
