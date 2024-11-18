@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { truncate } from '$lib/utils.js';
 	import Excerpt from '../lib/components/excerpt.svelte';
 
 	export let data;
@@ -30,9 +29,9 @@
 		{/each}
 	</div>
 
-	<div class="flex flex-col gap-5 bg-white md:w-screen md:p-8">
+	<div class="flex flex-col gap-5 bg-white p-6 md:w-screen md:p-8">
 		<h2 class="w-full text-center font-sans">Projects</h2>
-		<div class="grid grid-cols-3 justify-around gap-5">
+		<div class="grid justify-around gap-5 md:grid-cols-3">
 			{#each data.projects as project}
 				{@const { author, title, image, slug } = project.metadata}
 				<div class="flex flex-col gap-4">
