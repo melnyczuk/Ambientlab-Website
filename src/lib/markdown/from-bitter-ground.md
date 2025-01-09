@@ -41,3 +41,5 @@ Concertina volume. (1000mm unfolded). Printed both sides. Full Colour.
 150mm x 180mm. Saddle Stitch binding. 28pp
 
 Project site: <https://frombitterground.com/>
+
+<img class="w-full object-cover object-center" alt="Readers edition of the project" src="/images/from-bitter-ground-readers-edition.png" width="1522px" height="1292px">
