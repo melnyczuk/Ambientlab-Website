@@ -8,4 +8,4 @@ We’ve developed techniques to bring those stories to life, and to create momen
 
 We think those things add value to our work and allow us to explore ways to change the ways you understand your own audience too.
 
-If you’d like to know more, drop us an email.
+[If you’d like to know more, drop us an email.](mailto:tom@ambientlit.com)

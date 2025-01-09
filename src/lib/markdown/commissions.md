@@ -12,4 +12,4 @@ We can also create immersive experiences out of whole cloth, crafting a project 
 
 We typically work on a project pricing basis - the quote you get will be the price we work to. Smaller projects can be finished in a few months, larger works will take longer.
 
-We can work with writers, designers, composers, marketing teams, and even publishers. If you’re interested in what we do, and what we can do for you, then get in touch.
+We can work with writers, designers, composers, marketing teams, and even publishers. If you’re interested in what we do, and what we can do for you, then [get in touch](mailto:tom@ambientlit.com).

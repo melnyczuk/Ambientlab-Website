@@ -34,19 +34,22 @@
 		<div class="grid justify-around gap-5 md:grid-cols-3">
 			{#each data.projects as project}
 				{@const { author, title, image, slug } = project.metadata}
+				{@const href = `./projects/${slug}`}
 				<div class="flex flex-col gap-4">
-					<img
-						class="aspect-video object-cover object-center"
-						src={image.src}
-						alt={image.alt}
-						width={image.width}
-						height={image.height}
-					/>
+					<a {href}>
+						<img
+							class="aspect-video object-cover object-center"
+							src={image.src}
+							alt={image.alt}
+							width={image.width}
+							height={image.height}
+						/>
+					</a>
 					<div class="flex flex-col gap-2">
 						<h3 class="font-sans text-2xl">{title}</h3>
 						<h4 class="text-lg">{author}</h4>
 					</div>
-					<Excerpt href="./projects/{slug}" length={100}>
+					<Excerpt {href} length={100}>
 						<svelte:component this={project.default} />
 					</Excerpt>
 				</div>

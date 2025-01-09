@@ -12,4 +12,4 @@ Taken together, these form the basis for each project. We try to make our techno
 
 Importantly, we share those frameworks with you. There aren’t any secrets to what we do, and it’s not governed by a set of NDAs. We’re interested in what you can bring to this space with our help, and the best way to achieve that is to share ideas and principles as freely as possible.
 
-Get in touch if you’d like to know more.
+[Get in touch if you’d like to know more.](mailto:tom@ambientlit.com)

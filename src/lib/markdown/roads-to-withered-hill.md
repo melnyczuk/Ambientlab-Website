@@ -28,3 +28,5 @@ _Stood on a busy road, as the last notes of the musical score fade in your ears,
 To help promote the book, we worked with Barnett and the Canelo team to produce an immersive audio experience like no other – one that transports you to Withered Hill no matter where you are in the world.
 
 Taking the form of an audio walk, **Roads to Withered Hill** begins wherever you find yourself. It draws you into the eponymous village, tightening around you like a snare with every step. The whole experience is narrated by a mysterious voice, one that seems to know far too much about the nature of **Withered Hill** and the secrets the village protects.
+
+To walk to Withered Hill, [take my hand](https://discover.witheredhill.place)

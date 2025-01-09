@@ -17,7 +17,7 @@ credits:
     name: Tom Abba and you
 ---
 
-**From Bitter Ground** is an immersive fiction for two readers, separated by geography and tied together by story.
+**From Bitter Ground** weaves a story between the printed page, a building that cannot possibly exist, and your presence within the whole work. The whole experience lasts four days, with a prologue accessible prior to the experience beginning.
 
 _As this begins, you will be asked to conjure a house from nothing._
 
@@ -27,7 +27,7 @@ _A century later, a woman considers a drop of water about to descend from a leaf
 
 _You will cut the air around and through your house. In time, you will enter in._
 
-**From Bitter Ground** weaves a story between the printed page, a building that cannot possibly exist, and your presence within the whole work. The whole experience lasts four days, with a prologue accessible prior to the experience beginning.
+**From Bitter Ground** is an immersive fiction for two readers, separated by geography and tied together by story.
 
 The work foregrounds the connection between material books and an immaterial experience. Each element contributes to the whole narrative, producing a location responsive immersive work whose location is designed and determined by each reader.
 

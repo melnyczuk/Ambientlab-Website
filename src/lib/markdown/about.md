@@ -23,4 +23,4 @@ If none of that makes sense, then try this:
 
 _We make immersive experiences. We place readers inside a story, and use data and other cues from your environment to conjure a narrative for each person. We use audio, text, place and presence to bring these to life._
 
-If you’re interested in working with us, then get in touch.
+If you’re interested in working with us, then [get in touch](mailto:tom@ambientlit.com).
